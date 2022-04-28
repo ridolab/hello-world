@@ -1,2 +1,2 @@
 # hello-world
-*My first repository*
+*la mia prima repository*
